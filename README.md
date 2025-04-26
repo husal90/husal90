@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husal90
+- 👋 Hi, I’m @husal90, better known to humans as Alexander
 - 👀 I’m interested in: Computer Science
 - 🌱 I’m currently learning: Language Processing
 - 💞️ I’m looking to collaborate on: ML/AI
